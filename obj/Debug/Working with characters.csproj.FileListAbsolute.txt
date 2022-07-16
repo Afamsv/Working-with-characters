@@ -1,0 +1,8 @@
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\bin\Debug\Working with characters.exe.config
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\bin\Debug\Working with characters.exe
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\bin\Debug\Working with characters.pdb
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\obj\Debug\Working with characters.csproj.AssemblyReference.cache
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\obj\Debug\Working with characters.csproj.SuggestedBindingRedirects.cache
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\obj\Debug\Working with characters.csproj.CoreCompileInputs.cache
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\obj\Debug\Working with characters.exe
+C:\Users\Afams\Source\Repos\Working with characters\Working with characters\obj\Debug\Working with characters.pdb
